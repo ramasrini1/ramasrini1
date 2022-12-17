@@ -40,7 +40,7 @@
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
-<h3>👩&nbsp;Connect With Me </h3>
+<h3>🤝&nbsp;Connect With Me </h3>
 
 - 🤔 &nbsp;<a href="https://www.linkedin.com/in/rama-srinivas/">
     <img align="left" alt="Rama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
