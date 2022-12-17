@@ -42,14 +42,14 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="href="mailto:ramasrini1@gmail.com"">
+<a href="href="mailto:ramasrini1@gmail.com">
   <img align="left" alt="Email" width="22px" src="./minutemailer.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+<a href="https://https://www.linkedin.com/in/rama-srinivas/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/ramasrini1">
+  <img align="left" alt="Rama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 </p>
