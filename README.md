@@ -40,6 +40,6 @@
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+!Exploring new technologies and developing software solutions and quick hacks.
 
 
