@@ -42,10 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-&nbsp;<a href="href="mailto:ramasrini1@gmail.com">
-  <img align="left" alt="Email" width="22px" src="./minutemailer.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rama-srinivas/">
+- <a href="https://www.linkedin.com/in/rama-srinivas/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ramasrini1">
