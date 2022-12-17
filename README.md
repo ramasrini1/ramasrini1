@@ -42,11 +42,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
- <a href="https://www.linkedin.com/in/rama-srinivas/">
-    <img align="left" alt="Rama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
- </a>
- <a href="https://github.com/ramasrini1">
-    <img align="left" alt="Rama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
- </a> 
-
+ 
 
