@@ -45,11 +45,9 @@
 - &nbsp;<a href="https://www.linkedin.com/in/rama-srinivas/">
     <img align="left" alt="Rama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     </a>
-- 🎓 &nbsp; MS Computer Science San Diego State Universtity.
-- 💼 &nbsp; Working as a Web Developer/Full Stack Engineer.
-- 🌱 &nbsp; Learning more about Cloud Computing, Software Testing and many more....
-- :heart: &nbsp; Travelling, Gardening, Cooking
-
+- &nbsp;<a href="https://github.com/ramasrini1">
+    <img align="left" alt="Rama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ </a> 
 
 
 
