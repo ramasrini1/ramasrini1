@@ -40,6 +40,12 @@
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
+<h3>👩&nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; MS Computer Science San Diego State Universtity.
+- 💼 &nbsp; Working as a Web Developer/Full Stack Engineer.
+- 🌱 &nbsp; Learning more about Cloud Computing, Software Testing and many more....
 - :heart: &nbsp; Travelling, Gardening, Cooking
 
 
