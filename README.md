@@ -8,6 +8,7 @@
 - 🎓 &nbsp; MS Computer Science San Diego State Universtity.
 - 💼 &nbsp; Working as a Web Developer/Full Stack Engineer.
 - 🌱 &nbsp; Learning more about Cloud Computing, Software Testing and many more....
+- :heart: &nbsp; Travelling
 - ✍️ &nbsp; Hobbeies - Travelling, Gardening, Cooking.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
