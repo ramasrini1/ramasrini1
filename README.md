@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/rama-srinivas/">
-  <img align="left" alt="Rama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn</a>
+ <a href="https://www.linkedin.com/in/rama-srinivas/"
+  <img align="left" alt="Rama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Linke</a>
 <a href="https://github.com/ramasrini1">
   <img align="left" alt="Rama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
