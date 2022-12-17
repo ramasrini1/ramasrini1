@@ -40,6 +40,8 @@
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
-!Exploring new technologies and developing software solutions and quick hacks.
+- :heart: &nbsp; Travelling, Gardening, Cooking
+
+
 
 
